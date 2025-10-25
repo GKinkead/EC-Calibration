@@ -1,4 +1,4 @@
-# EC-Callibration
+# EC-Calibration
 
 MicroPython utilities for calibrating and monitoring the Gravity Analog Electrical
 Conductivity Sensor (K=1) with a Raspberry Pi Pico W.  The scripts are designed to coexist
